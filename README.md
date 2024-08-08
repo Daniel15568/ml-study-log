@@ -9,7 +9,8 @@ A self-study journey to become a Machine Learning Engineer / NLP Engineer.
 For paid courses, there will be 💰 after course name.
 
 ### The Plan
-------------------
+___
+
 ### 0. Basic Programming Langauges (Python/R) and Libraries
 - [ ] Python
   - [ ] [FreeCodeCamp: Python Full Course 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw)
