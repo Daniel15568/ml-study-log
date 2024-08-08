@@ -18,11 +18,11 @@ ___
   - [ ] [FreeCodeCamp: Advanced Python Playlist on Youtube](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
 - [ ] R
   - [ ] [Swirl R Tutorials](https://swirlstats.com/students.html)
-  - [ ] Numpy
+- [ ] Numpy
     - [ ] [Udemy Course: Numpy](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)
-  - [ ] Matplotlib
+- [ ] Matplotlib
     - [ ] [Corey Schafer: Matplotlib Playlist on Youtube](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
-  - [ ] Pandas
+- [ ] Pandas
     - [ ] [Kaggle: Pandas](https://www.kaggle.com/learn/pandas)
     - [ ] [Pandas Tutorial: Playlist on Youtube (Corey Schafer)](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
 
