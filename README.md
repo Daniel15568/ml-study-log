@@ -17,7 +17,7 @@ ___
   - [ ] [Kaggle: Python](https://www.kaggle.com/learn/python)
   - [ ] [FreeCodeCamp: Advanced Python Playlist on Youtube](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
 - [ ] R
-- [ ] 
+  - [ ] [Swirl R Tutorials](https://swirlstats.com/students.html)
   - [ ] Numpy
     - [ ] [Udemy Course: Numpy](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/)
   - [ ] Matplotlib
