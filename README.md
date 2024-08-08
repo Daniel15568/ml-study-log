@@ -11,7 +11,7 @@ For paid courses, there will be 💰 after course name.
 ### The Plan
 ___
 
-### 0. Basic Programming Langauges (Python/R) and Libraries
+### 0. Basic Programming Langauges and Libraries
 - [ ] Python
   - [ ] [FreeCodeCamp: Python Full Course 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw)
   - [ ] [Kaggle: Python](https://www.kaggle.com/learn/python)
