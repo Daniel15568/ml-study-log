@@ -4,7 +4,7 @@ This comprehensive 4-hour full course offered a thorough review of foundational 
 * [Youtube Link](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 ## What I've Learned
-* Python Introduction
+* Language: Python
 * Input/Output
 * Variables
 * If-Else
