@@ -1,5 +1,5 @@
 # ml-study-log
-A self-study journey to become a Machine Learning Engineer / NLP Engineer.
+A self-study journey to become a proficient Machine Learning Engineer / NLP Researcher.
 
 ### My Goal
 1. Build a solid foundation in machine learning, from basics to advanced topics.
