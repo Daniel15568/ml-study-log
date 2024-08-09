@@ -1,7 +1,7 @@
 ## Python 4hrs Full Course from FreeCodeCamp
 I took this course to deepen my understanding and refresh my knowledge of basic Python concepts. 
 This comprehensive 4-hour full course offered a thorough review of foundational Python topics.
-* [Youtube Video](https://www.youtube.com/watch?v=rfscVS0vtbw)
+* [Youtube Link](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 ## What I've Learned
 * Python Introduction
