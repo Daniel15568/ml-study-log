@@ -13,7 +13,7 @@ ___
 
 ### 0. Basic Programming Langauges and Libraries
 - [ ] Python
-  - [x] [FreeCodeCamp: Python Full Course 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw) [[Repository]](https://github.com/siwany/ml-study-log/tree/main/Python%20Full%20Course%204hrs)
+  - [x] [FreeCodeCamp: Python Full Course 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw) : [[Repository]](https://github.com/siwany/ml-study-log/tree/main/Python%20Full%20Course%204hrs)
   - [ ] [Kaggle: Python](https://www.kaggle.com/learn/python)
   - [ ] [FreeCodeCamp: Advanced Python Playlist on Youtube](https://www.youtube.com/watch?v=QLTdOEn79Rc&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
 - [ ] R
